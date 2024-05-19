@@ -1,0 +1,3 @@
+[blockchain]
+static_diff = false
+static_val = 1

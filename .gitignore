@@ -1,0 +1,5 @@
+db.*
+config.toml
+*.pickle
+__pycache__
+venv
